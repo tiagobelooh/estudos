@@ -12,3 +12,5 @@ elif(total >= 25.0 and total <= 29.9):
 else:
  print('obsidade')
  print(total)
+  
+ //edição teste
